@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1572161679 source:c:\users\hp\desktop\c++\library\main.cpp
+	<iostream>
+	"homescreen.h"
+
+1572163394 c:\users\hp\desktop\c++\library\homescreen.h
+	<iostream>
+	<string>
+
+1572355367 source:c:\users\hp\desktop\c++\library\homescreen.cpp
+	"studentscreen.h"
+	"homescreen.h"
+	<iostream>
+	<string>
+
+1572157567 source:c:\users\hp\desktop\c++\library\lib.cpp
+
+1572354827 c:\users\hp\desktop\c++\library\books.h
+	<string>
+
+1572355365 source:c:\users\hp\desktop\c++\library\adminscreen.cpp
+	<iostream>
+	"books.h"
+
+1572453218 source:c:\users\hp\desktop\c++\library\books.cpp
+	"books.h"
+	"studentscreen.h"
+	<fstream>
+	<iostream>
+	<sstream>
+
+1572162349 c:\users\hp\desktop\c++\library\studentscreen.h
+	<iostream>
+
+1572355567 source:c:\users\hp\desktop\c++\library\studentscreen.cpp
+	<iostream>
+	"books.h"
+
+1572351535 source:c:\users\hp\desktop\c++\library\studentrecord.cpp
+
